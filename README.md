@@ -1,2 +1,2 @@
-# nch-keyg3n
+# nch-k3yg3n
 Keygen for NCH Tools
