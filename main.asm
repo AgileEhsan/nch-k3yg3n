@@ -732,7 +732,7 @@ section '.res' resource data readable
     resource group,\
         1, LANG_ENGLISH or SUBLANG_DEFAULT, group_icon
 
-    icon group_icon, main_icon, 'C:\icons\magic.ico'
+    icon group_icon, main_icon, 'magic.ico'
 
     dialog about_dialog, 'About', 0, 0, 157, 60,\
         DS_MODALFRAME or DS_SETFONT or DS_CENTER\
